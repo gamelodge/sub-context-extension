@@ -1,5 +1,5 @@
 {
-    "name": "uq/SubContextExtension",
+    "name": "uq/sub-context-extension",
     "description": "Auto Loads Subcontexts",
     "keywords": ["BDD", "Behat", "Symfony2", "Context"],
     "type": "library",
